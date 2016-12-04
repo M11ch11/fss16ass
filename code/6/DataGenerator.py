@@ -160,6 +160,6 @@ class Main:
         for erasCount in range(0, 18, 1):
             getEras(table_out, eras, erasCount)
             train = eras
+            print("---------\r\n" + "test era no " + repr(erasCount))
             test = getEras(table_out, era_test, erasCount + 1)
-
         print("done")
