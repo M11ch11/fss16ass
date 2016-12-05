@@ -1,5 +1,6 @@
 <h1>homework 8</h1><br>
-We used the following datasets diabetes	hepatitis	seismic-bumps	contect-lenses	segment	soy-beans.<br>
+We used the following datasets diabetes,	hepatitis,	seismic-bumps,	contect-lenses,	segment	soy-beans.<br>
+All datasets are coming from Weka and all datasets have binary classes(0/1).
 
 <table border=0 cellpadding=0 cellspacing=0 width=793 style='border-collapse:
  collapse;table-layout:fixed;width:596pt'>
