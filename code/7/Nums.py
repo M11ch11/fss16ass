@@ -49,20 +49,22 @@ class Num:
         return i.up if x < (i.up - i.lo) / 2 else i.lo
 
     def equalWidthDiscret(self, countBins, value):
+        print("equal-width discretization")
         sizeOneBin = (self.up - self.lo) / countBins
-        '''create bins'''
+        print("bin size = " + repr(sizeOneBin))
         for i in range(0,countBins):
             self.bin[i]=(i*sizeOneBin, (i+1)*sizeOneBin-1)
         return self.bin[value // sizeOneBin]
 
     def equalFreqDiscret(self, countBins, value):
+        print("equal-size descritzation")
         self.values = sorted(self.values)
         countPerBin = values.n // countBins
         countValuesSmaller = 0
         n = 0
         while (i < value):
-            i = values(n++)
-            countValuesSmaller++
+            i = values(n=+1)
+            countValuesSmaller=+1
         countBinsSmaller = math.ceil(countValuesSmaller / countPerBin)
         return self.bin[countBinsSmaller]
             

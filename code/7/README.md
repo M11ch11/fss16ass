@@ -1,9 +1,13 @@
-Created data reader, generator, eras
+<b>Homework 7</b>
+<ul>
+<li>equal-width discretization implemented</li>
+<li>equal-size discretization implemented</li>
+</ul>
 
-/usr/bin/python2.7 /home/michael/fss16ass/code/6/DataGenerator.py
+RESTART: DataGenerator.py 
 reading data
-create eras
-incremental bayes
+creating bins
+bayes
 done
 
 Process finished with exit code 0

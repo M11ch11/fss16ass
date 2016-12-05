@@ -117,7 +117,6 @@ def getEras(table, eras, section):
     for i in range(0, result.rows.__len__(), 1):
         eras.rows.append(result.rows[i])
 
-
 # class variable in column 8
 def separateByClass(training):
     separated = {}
@@ -146,20 +145,6 @@ class Main:
             table.rows.append(row)
             for i in range(0, 9, 1):
                 table.cols[i].add(row[i])
-
-        table_out = Table()
-        table_out.__init__()
-
-        get50500(table, table_out)
-        print("create eras")
-        eras = Table()
-        eras.__init__()
-        era_test = Table()
-        era_test.__init__()
-        print("incremental bayes")
-        for erasCount in range(0, 18, 1):
-            getEras(table_out, eras, erasCount)
-            train = eras
-            test = getEras(table_out, era_test, erasCount + 1)
-
+        print("creating bins")
+        print("bayes")
         print("done")
