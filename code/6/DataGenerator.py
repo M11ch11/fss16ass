@@ -151,7 +151,7 @@ class Main:
         table_out.__init__()
 
         get50500(table, table_out)
-        print("create eras")
+        print("creating eras")
         eras = Table()
         eras.__init__()
         era_test = Table()
