@@ -1,0 +1,87 @@
+\begin{thebibliography}{10}
+
+\bibitem{breiman2001random}
+L.~Breiman.
+\newblock Random forests.
+\newblock {\em Machine learning}, 45(1):5--32, 2001.
+
+\bibitem{clarke2008properties}
+R.~Clarke, H.~W. Ressom, A.~Wang, J.~Xuan, M.~C. Liu, E.~A. Gehan, and Y.~Wang.
+\newblock The properties of high-dimensional data spaces: implications for
+  exploring gene and protein expression data.
+\newblock {\em Nature Reviews Cancer}, 8(1):37--49, 2008.
+
+\bibitem{dutilh2011facil}
+B.~E. Dutilh, R.~Jurgelenaite, R.~Szklarczyk, S.~A. van Hijum, H.~R. Harhangi,
+  M.~Schmid, B.~de~Wild, H.~G. Stunnenberg, M.~Strous, M.~S. Jetten, et~al.
+\newblock Facil: fast and accurate genetic code inference and logo.
+\newblock {\em Bioinformatics}, 27(14):1929--1933, 2011.
+
+\bibitem{hapfelmeier2013new}
+A.~Hapfelmeier and K.~Ulm.
+\newblock A new variable selection approach using random forests.
+\newblock {\em Computational Statistics \& Data Analysis}, 60:50--69, 2013.
+
+\bibitem{1054102}
+G.~Hughes.
+\newblock On the mean accuracy of statistical pattern recognizers.
+\newblock {\em IEEE Transactions on Information Theory}, 14(1):55--63, Jan
+  1968.
+
+\bibitem{ishwaran2008random}
+H.~Ishwaran, U.~B. Kogalur, E.~H. Blackstone, and M.~S. Lauer.
+\newblock Random survival forests.
+\newblock {\em The annals of applied statistics}, pages 841--860, 2008.
+
+\bibitem{lausch2015data}
+A.~Lausch, A.~Schmidt, and L.~Tischendorf.
+\newblock Data mining and linked open data--new perspectives for data analysis
+  in environmental research.
+\newblock {\em Ecological Modelling}, 295:5--17, 2015.
+
+\bibitem{maken2014multiple}
+F.~A. Maken, Y.~Gal, D.~McClymont, and A.~P. Bradley.
+\newblock Multiple instance learning for breast cancer magnetic resonance
+  imaging.
+\newblock In {\em Digital lmage Computing: Techniques and Applications (DlCTA),
+  2014 International Conference on}, pages 1--8. IEEE, 2014.
+
+\bibitem{qi2012random}
+Y.~Qi.
+\newblock Random forest for bioinformatics.
+\newblock In {\em Ensemble machine learning}, pages 307--323. Springer, 2012.
+
+\bibitem{Robillard:recomm_sys_sw_eng}
+M.~Robillard, W.~Maalej, R.~Walker, and T.~Zimmermann.
+\newblock {\em {R}ecommendation {S}ystems in {S}oftware {E}ngineering}.
+\newblock Springer, New York, 2014.
+
+\bibitem{Schmid2016450}
+M.~Schmid, M.~N. Wright, and A.~Ziegler.
+\newblock On the use of harrell’s c for clinical risk prediction via random
+  survival forests.
+\newblock {\em Expert Systems with Applications}, 63:450 -- 459, 2016.
+
+\bibitem{schwarz2010safari}
+D.~F. Schwarz, I.~R. K{\"o}nig, and A.~Ziegler.
+\newblock On safari to random jungle: A fast implementation of random forests
+  for high dimensional data.
+\newblock {\em Bioinformatics}, page btq257, 2010.
+
+\bibitem{nmd2004szolo}
+P.~Szolovits.
+\newblock Nature of medical data, 2004.
+
+\bibitem{touw2012data}
+W.~G. Touw, J.~R. Bayjanov, L.~Overmars, L.~Backus, J.~Boekhorst, M.~Wels, and
+  S.~A. van Hijum.
+\newblock Data mining in the life sciences with random forest: a walk in the
+  park or lost in the jungle?
+\newblock {\em Briefings in bioinformatics}, page bbs034, 2012.
+
+\bibitem{zhang2009willows}
+H.~Zhang, M.~Wang, and X.~Chen.
+\newblock Willows: a memory efficient tree and forest construction package.
+\newblock {\em BMC bioinformatics}, 10(1):1, 2009.
+
+\end{thebibliography}
