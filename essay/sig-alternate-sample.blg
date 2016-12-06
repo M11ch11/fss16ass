@@ -5,45 +5,50 @@ The style file: abbrv.bst
 Database file #1: sigproc.bib
 Warning--entry type for "nmd2004szolo" isn't style-file defined
 --line 305 of file sigproc.bib
-You've used 15 entries,
+Warning--string name "scholarpedia" is undefined
+--line 351 of file sigproc.bib
+Warning--entry type for "snp2016mih" isn't style-file defined
+--line 423 of file sigproc.bib
+Warning--empty journal in Peterson:2009
+You've used 20 entries,
             2118 wiz_defined-function locations,
-            598 strings with 6543 characters,
-and the built_in function-call counts, 5807 in all, are:
-= -- 570
-> -- 316
-< -- 5
-+ -- 127
-- -- 110
-* -- 417
-:= -- 959
-add.period$ -- 46
-call.type$ -- 15
-change.case$ -- 98
+            628 strings with 7535 characters,
+and the built_in function-call counts, 7555 in all, are:
+= -- 739
+> -- 409
+< -- 6
++ -- 164
+- -- 142
+* -- 547
+:= -- 1251
+add.period$ -- 61
+call.type$ -- 20
+change.case$ -- 129
 chr.to.int$ -- 0
-cite$ -- 15
-duplicate$ -- 218
-empty$ -- 404
-format.name$ -- 110
-if$ -- 1216
+cite$ -- 21
+duplicate$ -- 279
+empty$ -- 535
+format.name$ -- 142
+if$ -- 1579
 int.to.chr$ -- 0
-int.to.str$ -- 15
-missing$ -- 15
-newline$ -- 77
-num.names$ -- 30
-pop$ -- 99
+int.to.str$ -- 20
+missing$ -- 19
+newline$ -- 101
+num.names$ -- 40
+pop$ -- 131
 preamble$ -- 1
-purify$ -- 84
+purify$ -- 110
 quote$ -- 0
-skip$ -- 168
+skip$ -- 213
 stack$ -- 0
-substring$ -- 327
-swap$ -- 65
-text.length$ -- 5
+substring$ -- 422
+swap$ -- 76
+text.length$ -- 6
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 58
-warning$ -- 0
-while$ -- 54
-width$ -- 17
-write$ -- 166
-(There was 1 warning)
+type$ -- 78
+warning$ -- 1
+while$ -- 71
+width$ -- 22
+write$ -- 220
+(There were 4 warnings)

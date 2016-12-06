@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/W32TeX) (format=pdflatex 2014.6.14)  6 DEC 2016 12:16
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/W32TeX) (format=pdflatex 2014.6.14)  6 DEC 2016 17:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -322,13 +322,13 @@ LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <7> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 101.
 
 Excluding 'CCSXML' comment.
-LaTeX Font Info:    Try loading font information for OMS+aer on input line 135.
+LaTeX Font Info:    Try loading font information for OMS+aer on input line 150.
 
  (c:/texlive/2013/texmf-dist/tex/latex/ae/omsaer.fd
 File: omsaer.fd 1999/12/27
 )
 LaTeX Font Info:    Font shape `OMS/aer/m/n' in size <9> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 135.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 150.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -336,92 +336,123 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 ]
-Overfull \hbox (12.62108pt too wide) in paragraph at lines 173--175
+<kNN.pdf, id=17, 310.87569pt x 315.46428pt>
+File: kNN.pdf Graphic file (type pdf)
+ <use kNN.pdf>
+Package pdftex.def Info: kNN.pdf used on input line 200.
+(pdftex.def)             Requested size: 216.81pt x 220.0196pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [2 <./kNN.pdf>]
+Overfull \hbox (5.83989pt too wide) in paragraph at lines 208--209
+[]\T1/aer/m/n/9 The de-vel-op-ment of ex-ten-sion for the Ran-dom For-est frame
+-
+ []
+
+<cloudrf.pdf, id=30, 1281.58804pt x 411.939pt>
+File: cloudrf.pdf Graphic file (type pdf)
+ <use cloudrf.pdf>
+Package pdftex.def Info: cloudrf.pdf used on input line 212.
+(pdftex.def)             Requested size: 361.34999pt x 116.14668pt.
+
+Overfull \hbox (12.62108pt too wide) in paragraph at lines 226--231
 []\T1/aer/m/n/9 Research in Bi-o-log-i-cal top-ics, es-pe-cially in gene-gene, 
 protein-
  []
 
-<curse_dim.pdf, id=16, 963.6pt x 542.025pt>
+<snpmatrice.pdf, id=31, 865.63402pt x 362.95604pt>
+File: snpmatrice.pdf Graphic file (type pdf)
+ <use snpmatrice.pdf>
+Package pdftex.def Info: snpmatrice.pdf used on input line 234.
+(pdftex.def)             Requested size: 252.94499pt x 106.05759pt.
+
+Overfull \hbox (12.94499pt too wide) in paragraph at lines 234--235
+ [][] 
+ []
+
+<curse_dim.pdf, id=32, 963.6pt x 542.025pt>
 File: curse_dim.pdf Graphic file (type pdf)
  <use curse_dim.pdf>
-Package pdftex.def Info: curse_dim.pdf used on input line 178.
+Package pdftex.def Info: curse_dim.pdf used on input line 245.
 (pdftex.def)             Requested size: 252.94499pt x 142.27956pt.
 
-Overfull \hbox (12.94499pt too wide) in paragraph at lines 178--179
+Overfull \hbox (12.94499pt too wide) in paragraph at lines 245--246
  [][] 
  []
 
-[2 <./curse_dim.pdf>] <rf.pdf, id=46, 597.50786pt x 845.04686pt>
+[3 <./snpmatrice.pdf> <./curse_dim.pdf
+
+pdfTeX warning: pdflatex.exe (file ./curse_dim.pdf): PDF inclusion: multiple pd
+fs with page group included in a single page
+>] <rf.pdf, id=65, 597.50786pt x 845.04686pt>
 File: rf.pdf Graphic file (type pdf)
  <use rf.pdf>
-Package pdftex.def Info: rf.pdf used on input line 205.
+Package pdftex.def Info: rf.pdf used on input line 272.
 (pdftex.def)             Requested size: 252.94499pt x 357.72823pt.
 
-Overfull \hbox (12.94499pt too wide) in paragraph at lines 205--206
+Overfull \hbox (12.94499pt too wide) in paragraph at lines 272--273
  [][] 
  []
 
+[4 <./cloudrf.pdf> <./rf.pdf
 
-Underfull \vbox (badness 5862) has occurred while \output is active []
-
-
-<onsafaribar.pdf, id=47, 796.6563pt x 597.432pt>
+pdfTeX warning: pdflatex.exe (file ./rf.pdf): PDF inclusion: multiple pdfs with
+ page group included in a single page
+>] <onsafaribar.pdf, id=102, 796.6563pt x 597.432pt>
 File: onsafaribar.pdf Graphic file (type pdf)
  <use onsafaribar.pdf>
-Package pdftex.def Info: onsafaribar.pdf used on input line 233.
-(pdftex.def)             Requested size: 252.94499pt x 189.6871pt.
+Package pdftex.def Info: onsafaribar.pdf used on input line 300.
+(pdftex.def)             Requested size: 361.34999pt x 270.9933pt.
 
-Overfull \hbox (12.94499pt too wide) in paragraph at lines 233--234
- [][] 
- []
-
-<willowstable.pdf, id=48, 972.43304pt x 178.26599pt>
+<willowstable.pdf, id=103, 972.43304pt x 178.26599pt>
 File: willowstable.pdf Graphic file (type pdf)
  <use willowstable.pdf>
-Package pdftex.def Info: willowstable.pdf used on input line 242.
+Package pdftex.def Info: willowstable.pdf used on input line 309.
 (pdftex.def)             Requested size: 361.34999pt x 66.24298pt.
 
-<harrellscbox.pdf, id=49, 722.7pt x 542.025pt>
+<harrellscbox.pdf, id=104, 722.7pt x 542.025pt>
 File: harrellscbox.pdf Graphic file (type pdf)
  <use harrellscbox.pdf>
-Package pdftex.def Info: harrellscbox.pdf used on input line 251.
+Package pdftex.def Info: harrellscbox.pdf used on input line 318.
 (pdftex.def)             Requested size: 361.34999pt x 271.01183pt.
- [3 <./rf.pdf>] [4 <./willowstable.pdf> <./harrellscbox.pdf
 
-pdfTeX warning: pdflatex.exe (file ./harrellscbox.pdf): PDF inclusion: multiple
- pdfs with page group included in a single page
->] <willowstree.pdf, id=111, 579.76604pt x 379.819pt>
+Overfull \hbox (6.16335pt too wide) in paragraph at lines 339--342
+\T1/aer/m/n/9 is also avail-able un-der http://c2s2.yale.edu/software/Willows,
+ []
+
+<willowstree.pdf, id=105, 579.76604pt x 379.819pt>
 File: willowstree.pdf Graphic file (type pdf)
  <use willowstree.pdf>
-Package pdftex.def Info: willowstree.pdf used on input line 277.
+Package pdftex.def Info: willowstree.pdf used on input line 348.
 (pdftex.def)             Requested size: 216.81pt x 142.03767pt.
 
-[5 <./onsafaribar.pdf> <./willowstree.pdf
+[5] [6 <./onsafaribar.pdf> <./willowstable.pdf
+
+pdfTeX warning: pdflatex.exe (file ./willowstable.pdf): PDF inclusion: multiple
+ pdfs with page group included in a single page
+>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [7 <./harrellscbox.pdf> <./willowstree.pdf
 
 pdfTeX warning: pdflatex.exe (file ./willowstree.pdf): PDF inclusion: multiple 
 pdfs with page group included in a single page
->] <mildataa.pdf, id=131, 364.56201pt x 354.12299pt>
+>] <mildataa.pdf, id=159, 364.56201pt x 354.12299pt>
 File: mildataa.pdf Graphic file (type pdf)
  <use mildataa.pdf>
-Package pdftex.def Info: mildataa.pdf used on input line 292.
+Package pdftex.def Info: mildataa.pdf used on input line 364.
 (pdftex.def)             Requested size: 216.81pt x 210.60582pt.
 
-Underfull \vbox (badness 2245) has occurred while \output is active []
-
-
-Overfull \hbox (10.66553pt too wide) in paragraph at lines 300--300
-[]\secfnt PATTERNS, NEG-A-TIVE PAT-TERNS, NEG-
- []
-
-(./sig-alternate-sample.bbl [6 <./mildataa.pdf>]) [7
+(./sig-alternate-sample.bbl [8 <./mildataa.pdf>]) [9
 
 ]
 (./sig-alternate-sample.aux) ) 
 Here is how much of TeX's memory you used:
- 3254 strings out of 493308
- 41579 string characters out of 6141367
- 114708 words of memory out of 5000000
- 6604 multiletter control sequences out of 15000+600000
+ 3279 strings out of 493308
+ 41996 string characters out of 6141367
+ 118753 words of memory out of 5000000
+ 6626 multiletter control sequences out of 15000+600000
  54972 words of font info for 77 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
  41i,10n,35p,1521b,466s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -437,10 +468,10 @@ c:/texlive/2013/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb><c:/texlive/2013
 /texmf-dist/fonts/type1/urw/times/utmb8a.pfb><c:/texlive/2013/texmf-dist/fonts/
 type1/urw/times/utmr8a.pfb><c:/texlive/2013/texmf-dist/fonts/type1/urw/times/ut
 mri8a.pfb>
-Output written on sig-alternate-sample.pdf (7 pages, 719575 bytes).
+Output written on sig-alternate-sample.pdf (9 pages, 969705 bytes).
 PDF statistics:
- 185 PDF objects out of 1000 (max. 8388607)
- 114 compressed objects within 2 object streams
+ 211 PDF objects out of 1000 (max. 8388607)
+ 129 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
- 36 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 51 words of extra memory for PDF output out of 10000 (max. 10000000)
 

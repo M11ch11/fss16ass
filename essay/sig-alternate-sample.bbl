@@ -5,6 +5,13 @@ L.~Breiman.
 \newblock Random forests.
 \newblock {\em Machine learning}, 45(1):5--32, 2001.
 
+\bibitem{10.1371/journal.pone.0144820}
+R.~Bressler, R.~B. Kreisberg, B.~Bernard, J.~E. Niederhuber, J.~G. Vockley,
+  I.~Shmulevich, and T.~A. Knijnenburg.
+\newblock Cloudforest: A scalable and efficient random forest implementation
+  for biological data.
+\newblock {\em PLOS ONE}, 10:1--7, 12 2015.
+
 \bibitem{clarke2008properties}
 R.~Clarke, H.~W. Ressom, A.~Wang, J.~Xuan, M.~C. Liu, E.~A. Gehan, and Y.~Wang.
 \newblock The properties of high-dimensional data spaces: implications for
@@ -46,10 +53,24 @@ F.~A. Maken, Y.~Gal, D.~McClymont, and A.~P. Bradley.
 \newblock In {\em Digital lmage Computing: Techniques and Applications (DlCTA),
   2014 International Conference on}, pages 1--8. IEEE, 2014.
 
+\bibitem{moore2010bioinformatics}
+J.~H. Moore, F.~W. Asselbergs, and S.~M. Williams.
+\newblock Bioinformatics challenges for genome-wide association studies.
+\newblock {\em Bioinformatics}, 26(4):445--455, 2010.
+
+\bibitem{Peterson:2009}
+L.~E. Peterson.
+\newblock {K}-nearest neighbor.
+\newblock 4(2):1883, 2009.
+
 \bibitem{qi2012random}
 Y.~Qi.
 \newblock Random forest for bioinformatics.
 \newblock In {\em Ensemble machine learning}, pages 307--323. Springer, 2012.
+
+\bibitem{snp2016mih}
+G.~H. Reference.
+\newblock What are single nucleotide polymorphisms, 2016.
 
 \bibitem{Robillard:recomm_sys_sw_eng}
 M.~Robillard, W.~Maalej, R.~Walker, and T.~Zimmermann.
@@ -67,6 +88,14 @@ D.~F. Schwarz, I.~R. K{\"o}nig, and A.~Ziegler.
 \newblock On safari to random jungle: A fast implementation of random forests
   for high dimensional data.
 \newblock {\em Bioinformatics}, page btq257, 2010.
+
+\bibitem{Sturm:2015:DMK:2853955.2853965}
+W.~Sturm, T.~Schreck, A.~Holzinger, and T.~Ullrich.
+\newblock Discovering medical knowledge using visual analytics: A survey on
+  methods for systems biology and *-omics data.
+\newblock In {\em Proceedings of the Eurographics Workshop on Visual Computing
+  for Biology and Medicine}, VCBM '15, pages 71--81, Aire-la-Ville,
+  Switzerland, Switzerland, 2015. Eurographics Association.
 
 \bibitem{nmd2004szolo}
 P.~Szolovits.
